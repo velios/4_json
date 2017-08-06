@@ -2,8 +2,8 @@ import json
 
 
 def load_data(filepath):
-    file = open(filepath, 'r', encoding='utf-8')
-    return file.read()
+    data_file = open(filepath, 'r', encoding='utf-8')
+    return data_file.read()
 
 
 def pretty_print_json(data):
