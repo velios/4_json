@@ -6,7 +6,7 @@ Learning project. Make pretty JSON output.
 
 Just take some JSON file to utility and get the pretty JSON output.
 
-The site data.mos.ru has many different data, including a list of Moscow bars. It can be downloaded in json format.
+The site data.mos.ru has many different data, including a <a href="https://data.mos.ru/opendata/7710881420-bary">list of Moscow bars</a>. It can be downloaded in json format.
 
 Example of script launch on Linux, Python 3.5:
 
